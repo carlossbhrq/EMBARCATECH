@@ -11,7 +11,6 @@ The Embarcatech course teaches the fundamentals and techniques for developing em
 This repository is organized into directories representing different tasks and projects from the course. Each directory contains:
 
 - **Source code**: C implementations for exercises and projects.  
-- **Simulation files**: Configuration files for simulation on Wokwi.
 
 ---
 
