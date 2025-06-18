@@ -1,6 +1,6 @@
 # Embarcatech - Raspberry Pi Pico W with BitDogLab
 
-This repository contains the tasks and projects developed in the **Embarcatech** course, where we explore the use of the **Raspberry Pi Pico W** microcontroller together with the **BitDogLab** board. The course focuses on embedded systems programmed in the **C** language, with simulations carried out on the **Wokwi** platform.
+This repository contains the tasks and projects developed in the **Embarcatech** course, where we explore the use of the **Raspberry Pi Pico W** microcontroller together with the **BitDogLab** board. The course focuses on embedded systems programmed in the **C** language. 
 
 ## About the Course
 
